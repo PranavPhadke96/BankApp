@@ -4,4 +4,5 @@ Current Account
 Home Loan
 Car Loan
 Education Loan
+Interest Rate=8%
 
