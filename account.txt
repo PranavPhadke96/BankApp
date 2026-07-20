@@ -1,3 +1,7 @@
 Customer Accounts
 Savings Account
 Current Account
+Home Loan
+Car Loan
+Education Loan
+
