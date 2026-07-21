@@ -5,5 +5,5 @@ Home Loan
 Car Loan
 Education Loan
 New change
-Interest Rate=15%
-Personal Loan
+Interest Rate=8%
+Vacation Loan
