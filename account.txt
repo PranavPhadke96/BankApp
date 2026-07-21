@@ -6,4 +6,4 @@ Car Loan
 Education Loan
 New change
 Interest Rate=15%
-
+Personal Loan
