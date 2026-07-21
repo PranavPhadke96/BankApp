@@ -4,5 +4,6 @@ Current Account
 Home Loan
 Car Loan
 Education Loan
-Interest Rate=7%
-
+New change
+Interest Rate=15%
+Personal Loan
